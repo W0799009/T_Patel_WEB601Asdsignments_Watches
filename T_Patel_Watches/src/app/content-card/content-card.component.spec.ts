@@ -1,8 +1,8 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { ContentCardComponent } from './component-card.component';
+import { ContentCardComponent } from './content-card.component';
 
-describe('ComponentCardComponent', () => {
+describe('ContentCardComponent', () => {
   let component: ContentCardComponent;
   let fixture: ComponentFixture<ContentCardComponent>;
 
